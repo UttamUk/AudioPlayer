@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AudioPlayer/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/AudioPlayer/static/js/main.7b6ed08a.chunk.js",
-    "main.js.map": "/AudioPlayer/static/js/main.7b6ed08a.chunk.js.map",
+    "main.js": "/AudioPlayer/static/js/main.cbff9d67.chunk.js",
+    "main.js.map": "/AudioPlayer/static/js/main.cbff9d67.chunk.js.map",
     "runtime-main.js": "/AudioPlayer/static/js/runtime-main.25c7b6f8.js",
     "runtime-main.js.map": "/AudioPlayer/static/js/runtime-main.25c7b6f8.js.map",
     "static/js/2.0962cc46.chunk.js": "/AudioPlayer/static/js/2.0962cc46.chunk.js",
     "static/js/2.0962cc46.chunk.js.map": "/AudioPlayer/static/js/2.0962cc46.chunk.js.map",
     "index.html": "/AudioPlayer/index.html",
-    "precache-manifest.0ad05e0614e61c83205a1aab34455085.js": "/AudioPlayer/precache-manifest.0ad05e0614e61c83205a1aab34455085.js",
+    "precache-manifest.28c2327d3e87f3bb4beb89cc5600e004.js": "/AudioPlayer/precache-manifest.28c2327d3e87f3bb4beb89cc5600e004.js",
     "service-worker.js": "/AudioPlayer/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/AudioPlayer/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.0962cc46.chunk.js.LICENSE.txt": "/AudioPlayer/static/js/2.0962cc46.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.25c7b6f8.js",
     "static/js/2.0962cc46.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7b6ed08a.chunk.js"
+    "static/js/main.cbff9d67.chunk.js"
   ]
 }
