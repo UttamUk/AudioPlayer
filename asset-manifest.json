@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AudioPlayer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/AudioPlayer/static/js/main.058d5449.chunk.js",
+    "main.js.map": "/AudioPlayer/static/js/main.058d5449.chunk.js.map",
+    "runtime-main.js": "/AudioPlayer/static/js/runtime-main.25c7b6f8.js",
+    "runtime-main.js.map": "/AudioPlayer/static/js/runtime-main.25c7b6f8.js.map",
+    "static/js/2.0962cc46.chunk.js": "/AudioPlayer/static/js/2.0962cc46.chunk.js",
+    "static/js/2.0962cc46.chunk.js.map": "/AudioPlayer/static/js/2.0962cc46.chunk.js.map",
+    "index.html": "/AudioPlayer/index.html",
+    "precache-manifest.7950faad669469c2e300bab9c4238b9b.js": "/AudioPlayer/precache-manifest.7950faad669469c2e300bab9c4238b9b.js",
+    "service-worker.js": "/AudioPlayer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/AudioPlayer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0962cc46.chunk.js.LICENSE.txt": "/AudioPlayer/static/js/2.0962cc46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c7b6f8.js",
+    "static/js/2.0962cc46.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.058d5449.chunk.js"
+  ]
+}
